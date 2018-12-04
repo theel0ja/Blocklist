@@ -48,10 +48,8 @@ Stuff __may__ more likely break if you enable these lists:
 * <a href="https://subscribe.adblockplus.org/?location=https://fanboy.co.nz/fanboy-antifacebook.txt&title=Anti-Facebook List">Anti-Facebook List</a>
 * <a href="https://subscribe.adblockplus.org/?location=https://fanboy.co.nz/fanboy-social.txt&title=Anti-Facebook List">Fanboy’s Social Blocking List</a>
 
-3rd party lists I recommend
-
+Additional lists:
 * <a href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/theel0ja/CrapBlock/master/block-googlefonts.txt&title=Google Fonts Blocker">Google Fonts Blocker</a> by @theel0ja
-* <a href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/theel0ja/CrapBlock/master/crapblock-annoyances.txt&title=Crapblock Annoyances">Crapblock Annoyances</a> by @theel0ja
 
 ## My personal lists
 
