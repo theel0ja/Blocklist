@@ -36,7 +36,7 @@ Also you might want to enable your country's local list from uBO settings.
 * <a href="https://subscribe.adblockplus.org/?location=https://filters.adtidy.org/extension/ublock/filters/14.txt&title=AdGuard's Annoyance List">AdGuard's Annoyance List</a>
 * <a href="https://subscribe.adblockplus.org/?location=https://fanboy.co.nz/fanboy-annoyance.txt&title=Fanboy’s Annoyance List">Fanboy’s Annoyance List</a>
 * <a href="https://subscribe.adblockplus.org/?location=https://easylist-downloads.adblockplus.org/antiadblockfilters.txt&title=Adblock Warning Removal List">Adblock Warning Removal List</a>
-* <a href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt&title=Browse%20websites%20without%20logging%20in">Browsing websites without logging in</a> (blocks some of these "Please login to your site" popups
+* <a href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt&title=Browse%20websites%20without%20logging%20in">Browsing websites without logging in</a> (blocks some of these "Please login to your site" popups)
 
 For mobile users:
 
