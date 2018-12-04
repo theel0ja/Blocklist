@@ -55,6 +55,14 @@ Stuff __may__ more likely break if you enable these lists:
 
 ## My personal lists
 
+### Built in (6/7)
+* uBlock filters
+* uBlock filters – Annoyances
+* uBlock filters – Badware risks
+* uBlock filters – Privacy
+* uBlock filters – Resource abuse
+* uBlock filters – Unbreak
+
 ### Ads section (3/4)
 * Adblock Warning Removal List
 * Adguard Base Filters
@@ -71,10 +79,10 @@ Stuff __may__ more likely break if you enable these lists:
 * Spam404
 
 ### Annoyances (4/5)
-* Adguard's Annoyance List
+* AdGuard's Annoyance List
 * Anti-Facebook List
 * Fanboy's Cookie List
-* Fanboy's Annoyance List
+* Fanboy’s Annoyance List
 
 ### Multipurpose (2/4)
 * Dan Pollock's hosts file
