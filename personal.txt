@@ -46,12 +46,6 @@ trakt.tv##.huckster-vip-square
 ! 9/2/2018, 2:02:42 PM https://www.sitepoint.com/setting-up-a-home-vpn-using-your-raspberry-pi/
 www.sitepoint.com###fixed-countdown-bar
 
-! 9/2/2018, 9:24:15 PM https://www.facebook.com/pg/openlabsAlbania/posts/
-www.facebook.com###u_0_4k
-
-! 11/25/2018, 12:01:30 AM https://www.iltalehti.fi/
-www.iltalehti.fi###almad-parade-1
-
 ! 11/25/2018, 1:45:15 PM https://jekyllthemes.io/free
 jekyllthemes.io##.promo
 
