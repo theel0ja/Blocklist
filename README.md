@@ -1,5 +1,8 @@
 A filter to make the web better
 
+
+This section is based on [theel0ja/ubo-recommendations](https://github.com/theel0ja/ubo-recommendations/).
+
 # Install uBlock Origin
 
 If you use some other Adblocker, such as AdBlock Plus or "AdBlock", delete it before installing uBlock Origin.
