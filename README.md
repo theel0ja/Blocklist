@@ -1,4 +1,3 @@
-# Blocklist
 A filter to make the web better
 
 # Install uBlock Origin
@@ -39,7 +38,7 @@ Also you might want to enable your country's local list from uBO settings.
 * <a href="https://subscribe.adblockplus.org/?location=https://filters.adtidy.org/extension/ublock/filters/14.txt&title=AdGuard's Annoyance List">AdGuard's Annoyance List</a>
 * <a href="https://subscribe.adblockplus.org/?location=https://fanboy.co.nz/fanboy-annoyance.txt&title=Fanboy’s Annoyance List">Fanboy’s Annoyance List</a>
 * <a href="https://subscribe.adblockplus.org/?location=https://easylist-downloads.adblockplus.org/antiadblockfilters.txt&title=Adblock Warning Removal List">Adblock Warning Removal List</a>
-* <a href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt&title=Browse%20websites%20without%20logging%20in">Browsing websites without logging in</a> (blocks some of these "Please login to your site" popups,
+* <a href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt&title=Browse%20websites%20without%20logging%20in">Browsing websites without logging in</a> (blocks some of these "Please login to your site" popups
 
 For mobile users:
 
@@ -55,3 +54,44 @@ Stuff __may__ more likely break if you enable these lists:
 
 * <a href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/theel0ja/CrapBlock/master/block-googlefonts.txt&title=Google Fonts Blocker">Google Fonts Blocker</a> by @theel0ja
 * <a href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/theel0ja/CrapBlock/master/crapblock-annoyances.txt&title=Crapblock Annoyances">Crapblock Annoyances</a> by @theel0ja
+
+## My personal lists
+
+### Ads section (3/4)
+* Adblock Warning Removal List
+* Adguard Base Filters
+* EasyList
+
+### Privacy (3/3)
+* Adguard Spyware Filters
+* EasyPrivacy
+* Fanboy's Enhanced Tracking List
+
+### Malware Domains (3/4)
+* Malware Domain List
+* Malware domains
+* Spam404
+
+### Annoyances (4/5)
+* Adguard's Annoyance List
+* Anti-Facebook List
+* Fanboy's Cookie List
+* Fanboy's Annoyance List
+
+### Multipurpose (2/4)
+* Dan Pollock's hosts file
+* Peter Lowe's Ad and tracking server list
+
+### Custom (11)
+* <a href="https://subscribe.adblockplus.org/?location=https://lushka.al/blocklist/personal.txt&title=Remove Annoyances">My personal blocklist</a>
+* <a href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DandelionSprout/adfilt/master/WikiaPureBrowsingExperience.txt">Wikia: Pure Browsing Experience</a>
+* <a href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DandelionSprout/adfilt/master/TwitchPureViewingExperience.txt">Twitch: Pure Viewing Experience</a>
+* <a href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Anti-IMDB%20List.txt">Anti-IMDB List</a>
+* <a href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Anti-'Notification%20pre-prompt%20banners'%20List.txt">Anti-'Notification pre-prompt banners' List</a>
+* <a href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DandelionSprout/adfilt/master/I%20Don't%20Want%20to%20Download%20Your%20Browser.txt">I Don't Want to Download Your Browser</a>
+* <a href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt">Browse websites without logging in</a>
+* <a href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/theel0ja/CrapBlock/master/block-googlefonts.txt">Google Fonts Blocker</a>
+* <a href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/theel0ja/CrapBlock/master/crapblock-annoyances.txt">Crapblock Annoyances</a>
+* <a href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DandelionSprout/adfilt/master/YouTubeYetEvenMorePureVideoExperience.txt">YouTube: Yet Even More Pure Video Experience</a>
+* <a href="https://subscribe.adblockplus.org/?location=https://easylist-downloads.adblockplus.org/yt_annoyances_full.txt">Youtube: Pure Video Experience</a>
+
