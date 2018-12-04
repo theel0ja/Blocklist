@@ -23,11 +23,6 @@ Keep in mind, that some browsers do not support these features, such as Safari.
 
 ## Basic
 
-Do not disable any of the default lists.
-
-* <a href="https://subscribe.adblockplus.org/?location=https://secure.fanboy.co.nz/fanboy-cookiemonster.txt&title=Fanboy's Cookie List">Fanboy's Cookie List</a>
-* <a href="https://subscribe.adblockplus.org/?location=https://crapblock.theel0ja.info/crapblock-annoyances.txt?src=uborec-basic&title=CrapBlock Annoyances&requiresLocation=https://crapblock.theel0ja.info/crapblock-annoyances.txt?src=uborec-basic">CrapBlock Annoyances</a>
-
 Also you might want to enable your country's local list from uBO settings.
 
 ## Advanced (Blocks more annoyances)
