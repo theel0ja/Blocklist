@@ -79,14 +79,14 @@ Stuff __may__ more likely break if you enable these lists:
 
 ### Custom (11)
 * <a href="https://subscribe.adblockplus.org/?location=https://lushka.al/blocklist/personal.txt&title=Remove Annoyances">My personal blocklist</a>
-* <a href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DandelionSprout/adfilt/master/WikiaPureBrowsingExperience.txt">Wikia: Pure Browsing Experience</a>
-* <a href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DandelionSprout/adfilt/master/TwitchPureViewingExperience.txt">Twitch: Pure Viewing Experience</a>
-* <a href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Anti-IMDB%20List.txt">Anti-IMDB List</a>
-* <a href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Anti-'Notification%20pre-prompt%20banners'%20List.txt">Anti-'Notification pre-prompt banners' List</a>
-* <a href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DandelionSprout/adfilt/master/I%20Don't%20Want%20to%20Download%20Your%20Browser.txt">I Don't Want to Download Your Browser</a>
-* <a href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt">Browse websites without logging in</a>
-* <a href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/theel0ja/CrapBlock/master/block-googlefonts.txt">Google Fonts Blocker</a>
-* <a href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/theel0ja/CrapBlock/master/crapblock-annoyances.txt">Crapblock Annoyances</a>
-* <a href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DandelionSprout/adfilt/master/YouTubeYetEvenMorePureVideoExperience.txt">YouTube: Yet Even More Pure Video Experience</a>
-* <a href="https://subscribe.adblockplus.org/?location=https://easylist-downloads.adblockplus.org/yt_annoyances_full.txt">Youtube: Pure Video Experience</a>
+* <a href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DandelionSprout/adfilt/master/WikiaPureBrowsingExperience.txt&title=Wikia: Pure Browsing Experience">Wikia: Pure Browsing Experience</a>
+* <a href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DandelionSprout/adfilt/master/TwitchPureViewingExperience.txt&title=Twitch: Pure Viewing Experience">Twitch: Pure Viewing Experience</a>
+* <a href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Anti-IMDB%20List.txt&title=Anti-IMDB List">Anti-IMDB List</a>
+* <a href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Anti-'Notification%20pre-prompt%20banners'%20List.txt&title=Anti-'Notification pre-prompt banners' List">Anti-'Notification pre-prompt banners' List</a>
+* <a href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DandelionSprout/adfilt/master/I%20Don't%20Want%20to%20Download%20Your%20Browser.txt&title=I Don't Want to Download Your Browser">I Don't Want to Download Your Browser</a>
+* <a href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt&title=Browse websites without logging in">Browse websites without logging in</a>
+* <a href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/theel0ja/CrapBlock/master/block-googlefonts.txt&title=Google Fonts Blocker">Google Fonts Blocker</a>
+* <a href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/theel0ja/CrapBlock/master/crapblock-annoyances.txt&title=Crapblock Annoyances">Crapblock Annoyances</a>
+* <a href="https://subscribe.adblockplus.org/?location=https://easylist-downloads.adblockplus.org/yt_annoyances_full.txt&title=Youtube: Pure Video Experience">Youtube: Pure Video Experience</a>
+* <a href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DandelionSprout/adfilt/master/YouTubeYetEvenMorePureVideoExperience.txt&title=YouTube: Yet Even More Pure Video Experience">YouTube: Yet Even More Pure Video Experience</a>
 
