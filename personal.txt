@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: ✋ Remove Annoyances
+! Last modified: 29/12/2018
 ! Expires: 12 hours
-!
 ! Blocks clickbait etc. that I personally don't want.
 
 ! Removes VIP buttons and ads in Trakt.tv website
@@ -38,3 +38,21 @@ www.instagram.com##.Fzijm.bR_3v
 
 ! Removes Recommended videos and channels from the frontpage
 www.youtube.com##.feed-item-container.browse-list-item-container.yt-section-hover-container.compact-shelf.shelf-item.branded-page-box.clearfix:has-text(Recommended)
+
+! Removes 17track cookie modal
+www.17track.net##.in.modal-backdrop
+
+! Removes Reddit re-design opt-in button
+old.reddit.com##.redesign-beta-optin
+
+! Removes cookie bubble in about.me
+about.me##.bubble-content
+
+! Removes extra unnecessary items at about.me
+about.me##.anonymous_ledge_view-scope-1RSnD
+
+! Removes signup button in about.me
+about.me##.signup-link.navlink > [href="/welcome"]
+
+! Freepik Nagging Banner
+www.freepik.com###banner-holder > div

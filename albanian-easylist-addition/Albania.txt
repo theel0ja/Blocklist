@@ -1,0 +1,164 @@
+[Adblock Plus 2.0]
+! Title: Adblock List for Albania
+! Description: Albanian adblock list
+! Last modified: 29/12/2018
+! Expires: 3 days
+! Homepage: https://github.com/anxh3l0/blocklist/albanian-easylist-addition
+! License: https://unlicense.org/
+!
+! Please report any issues at:
+! https://github.com/anxh3l0/blocklist/issues
+
+! General ReCaptcha Badge
+##.grecaptcha-badge
+
+! Gjirafa AdNetwork
+||gjc.gjirafa.com$third-party
+
+! GDPR cookies banner
+###gdpr-banner
+##.gdpr-popup
+
+! New Generic Article Box
+##.td-more-articles-box
+
+! Cookies Banner
+##.cc-type-info
+###iframe_cookie
+
+! Albeu notifications spammer
+albeu.com##.sendpulse-prompt
+
+! Ads in Koha Jone
+||www.kohajone.com/wp-content/uploads/2018/04/facile.png$image
+||www.kohajone.com/wp-content/uploads/2018/10/psikologu-1.jpeg$image
+||www.kohajone.com/wp-content/uploads/2018/12/300x25012345.gif$image
+html$domain=www.kohajone.com,subdocument
+
+! Koha Jone Buggy Div
+www.kohajone.com##.vc_raw_html:has-text(Html code)
+
+! Living Ad
+||www.living.al/images3/2018/banners/raiffeisen-2018-12-06.gif$image
+
+! Banner Ad
+www.living.al###sticky1
+www.living.al###baner1
+www.living.al###sanpietro2
+www.living.al##.tekebaner1
+
+! Ads on Gazeta Tema
+www.gazetatema.net###sidebar
+www.gazetatema.net###reklama1
+www.gazetatema.net###execphp-24 > .execphpwidget
+www.gazetatema.net###execphp-25 > .execphpwidget
+
+! Adware that promotes PDF software
+www.gazetatema.net##.notes-right
+
+! Ora News Ads
+oranews.tv##body > .container > .advert-under
+oranews.tv##.small-adv
+oranews.tv##.slider-adv
+
+! Short24 Adblock-blocker killer
+short24.pw###g207
+
+! Gazeta Dita Ads
+www.gazetadita.al###menu-item-640384 > a
+www.gazetadita.al##.textwidget
+
+! Gazeta Mapo Ads
+www.gazetamapo.al##div.wpb_content_element.wpb_text_column:nth-of-type(2) > .wpb_wrapper > .desktop
+www.gazetamapo.al##div.wpb_content_element.wpb_text_column:nth-of-type(4) > .wpb_wrapper > .desktop
+www.gazetamapo.al##.wpb_wrapper > p > a > img
+
+! Politiko.al Ad
+politiko.al##.wpb_wrapper > a > img
+
+! Dritare Ads
+||dritare.net/wp-content/uploads/2018/12/drittare.net_.jpeg$image
+dritare.net##.td-fix-index > iframe
+dritare.net##.custom-html-widget > iframe
+
+! Njoftime.com Ads
+njoftime.com##.left-banner
+njoftime.com###sidebar_container
+
+! Droni.al Notification
+www.droni.al###bottom_fixed_notification
+
+! Gazeta Shekulli Ads
+shekulli.com.al##.rek-holder
+shekulli.com.al##.fixed-ad
+
+! Lajmi.net Ad
+lajmi.net##.radio-live-adv
+
+! Lajmi Fundit Ads
+lajmifundit.al###ads2018
+
+! Fishmedia Ads
+www.fishmedia.info##.main_ban_rek > .container > .g
+www.fishmedia.info##.main_ban_rek > .g
+www.fishmedia.info##.sidebar_rek
+
+! NewsBomb Ads
+newsbomb.al##.site-banner
+
+! Tirana Post Ads
+www.tiranapost.al##.textwidget > a
+www.tiranapost.al##.theiaStickySidebar > a
+www.tiranapost.al##.textwidget > a
+
+! Subscribe Notifications Banner
+pamfleti.net###foxpush_subscribe
+
+! JOQ Ads
+joq.al###fixed_728_banner
+
+! Syri Ads
+www.syri.net##.rekl-phone
+www.syri.net##.app_holder
+
+! 360grade Ads
+360grade.al##div.widget > .textwidget
+360grade.al###offcanvas-article
+
+! Bank of Albania Nagging Modal
+www.bankofalbania.org##.modal-open:style(overflow: visible)
+www.bankofalbania.org###modalHome
+www.bankofalbania.org##.show.modal-backdrop
+
+! Noa Ads
+noa.al##.banner_intro
+noa.al##.left_fixed
+noa.al##.pc_only > a > img
+noa.al##.pc_only > iframe
+noa.al##.top-bigBanner
+noa.al##.banner_wrapper.pc_only
+
+! Neptun Cookie Banner
+www.neptun.al###v-cookielaw
+
+! Shpresa AL Cookie Banner
+dyqani.shpresa.al##.biscotto-container
+
+! ABCom Live Chat Support Image
+abcom.al###mibew-agent-button > img
+
+! Shkoder.net Ads
+shkoder.net##.td-all-devices
+shkoder.net##.td-block-title-wrap > h4 > span:has-text(REKLAMA)
+
+! Albacenter Ads
+albacenter.it###rt-sidebar-b > .rt-block
+
+! NimiTV Support Image
+nimitv.com##.olark-attention-grabber
+
+! Gazeta Express Ads
+www.gazetaexpress.com###ad-wide_skyscraper
+
+! Insajderi Ads
+insajderi.com##.new_header-ad-box
