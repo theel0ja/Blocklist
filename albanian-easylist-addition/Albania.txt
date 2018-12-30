@@ -3,7 +3,7 @@
 ! Description: Albanian adblock list
 ! Last modified: 29/12/2018
 ! Expires: 3 days
-! Homepage: https://github.com/anxh3l0/blocklist/albanian-easylist-addition
+! Homepage: https://github.com/anxh3l0/blocklist
 ! License: https://unlicense.org/
 !
 ! Please report any issues at:
