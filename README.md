@@ -86,7 +86,7 @@ Additional lists:
 * Dan Pollock's hosts file
 * Peter Lowe's Ad and tracking server list
 
-### Custom (11)
+### Custom (13)
 * <a href="https://subscribe.adblockplus.org/?location=https://lushka.al/blocklist/albanian-easylist-addition/Albania.txt&title=Albanian Blocklist">Albanian Blocklist</a>
 * <a href="https://subscribe.adblockplus.org/?location=https://lushka.al/blocklist/personal.txt&title=Remove Annoyances">My personal blocklist</a>
 * <a href="https://subscribe.adblockplus.org/?location=https://www.i-dont-care-about-cookies.eu/abp/&title=I don't care about cookies">I don't care about cookies</a>
