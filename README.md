@@ -87,6 +87,7 @@ Additional lists:
 * Peter Lowe's Ad and tracking server list
 
 ### Custom (11)
+* <a href="https://subscribe.adblockplus.org/?location=https://lushka.al/blocklist/albanian-easylist-addition/Albania.txt&title=Albanian Blocklist">Albanian Blocklist</a>
 * <a href="https://subscribe.adblockplus.org/?location=https://lushka.al/blocklist/personal.txt&title=Remove Annoyances">My personal blocklist</a>
 * <a href="https://subscribe.adblockplus.org/?location=https://www.i-dont-care-about-cookies.eu/abp/&title=I don't care about cookies">I don't care about cookies</a>
 * <a href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DandelionSprout/adfilt/master/WikiaPureBrowsingExperience.txt&title=Wikia: Pure Browsing Experience">Wikia: Pure Browsing Experience</a>
