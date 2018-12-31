@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: Adblock List for Albania
+! Title: 🇦🇱 Adblock List for Albania
 ! Description: Albanian adblock list
 ! Last modified: 30/12/2018
 ! Expires: 3 days
